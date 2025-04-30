@@ -4,10 +4,7 @@
     {
       "src": [
         {
-          "src": "Library\\Library.sln",
-          "files": [
-            "**/*.csproj"
-          ]
+          "src": "../Library/Library.csproj"
         }
       ],
       "dest": "api"
