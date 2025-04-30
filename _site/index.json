@@ -4,6 +4,16 @@
     "title": "lib-docfx | mysite",
     "summary": "lib-docfx"
   },
+  "api/Library.Class1.html": {
+    "href": "api/Library.Class1.html",
+    "title": "Class Class1 | mysite",
+    "summary": "Class Class1 Namespace Library Assembly Library.dll Математика. public class Class1 Inheritance object Class1 Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add(int, int) Складывает два числа. public int Add(int a, int b) Parameters a int b int Returns int"
+  },
+  "api/Library.html": {
+    "href": "api/Library.html",
+    "title": "Namespace Library | mysite",
+    "summary": "Namespace Library Classes Class1 Математика."
+  },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",
     "title": "Getting Started | mysite",

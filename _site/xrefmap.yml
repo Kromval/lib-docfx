@@ -1,3 +1,31 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: Library
+  name: Library
+  href: api/Library.html
+  commentId: N:Library
+  fullName: Library
+  nameWithType: Library
+- uid: Library.Class1
+  name: Class1
+  href: api/Library.Class1.html
+  commentId: T:Library.Class1
+  fullName: Library.Class1
+  nameWithType: Class1
+- uid: Library.Class1.Add(System.Int32,System.Int32)
+  name: Add(int, int)
+  href: api/Library.Class1.html#Library_Class1_Add_System_Int32_System_Int32_
+  commentId: M:Library.Class1.Add(System.Int32,System.Int32)
+  name.vb: Add(Integer, Integer)
+  fullName: Library.Class1.Add(int, int)
+  fullName.vb: Library.Class1.Add(Integer, Integer)
+  nameWithType: Class1.Add(int, int)
+  nameWithType.vb: Class1.Add(Integer, Integer)
+- uid: Library.Class1.Add*
+  name: Add
+  href: api/Library.Class1.html#Library_Class1_Add_
+  commentId: Overload:Library.Class1.Add
+  isSpec: "True"
+  fullName: Library.Class1.Add
+  nameWithType: Class1.Add

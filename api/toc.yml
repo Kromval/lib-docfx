@@ -1,0 +1,10 @@
+### YamlMime:TableOfContent
+items:
+- uid: Library
+  name: Library
+  type: Namespace
+  items:
+  - uid: Library.Class1
+    name: Class1
+    type: Class
+memberLayout: SamePage

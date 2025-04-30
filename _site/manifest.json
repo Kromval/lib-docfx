@@ -1,5 +1,5 @@
 {
-  "source_base_path": "C:/Users/Admin/Desktop/docfx/lib-docfx",
+  "source_base_path": "C:/Users/Admin/Desktop/docfx/lib-docfx/lib-docfx",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -16,6 +16,47 @@
       "output": {
         ".html": {
           "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Library.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Library.Class1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Library.Class1",
+      "Summary": "<p sourcefile=\"api/Library.Class1.yml\" sourcestartlinenumber=\"1\">Математика.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Library.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Library.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Library",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
         }
       },
       "version": ""

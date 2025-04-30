@@ -3,7 +3,7 @@
 /// <summary>
 /// Математика.
 /// </summary>
-public class MathHelper
+public class Class1
 {
     /// <summary>
     /// Складывает два числа.
