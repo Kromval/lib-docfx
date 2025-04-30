@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\lib-docfx\\Library\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\Library\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\lib-docfx\\Library\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\Library\\Library\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\docfx\\lib-docfx\\lib-docfx\\Library\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
