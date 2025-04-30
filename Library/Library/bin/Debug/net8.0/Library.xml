@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library</name>
+    </assembly>
+    <members>
+        <member name="T:Library.MathHelper">
+            <summary>
+            Математика.
+            </summary>
+        </member>
+        <member name="M:Library.MathHelper.Add(System.Int32,System.Int32)">
+            <summary>
+            Складывает два числа.
+            </summary>
+        </member>
+    </members>
+</doc>
